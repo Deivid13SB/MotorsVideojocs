@@ -7,6 +7,6 @@
     "glad",
     "glm",
     "devil",
-    { "name": "imgui", "features": [ "sdl2-binding", "opengl3-binding" ] }
+    "imgui"
   ]
 }
