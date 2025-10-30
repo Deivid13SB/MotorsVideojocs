@@ -25,6 +25,14 @@ set(OLD_GLOB
   "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ModuleTextures.cpp"
   "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ModuleWindow.cpp"
   "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/Time.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/C_Mesh.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/C_Texture.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/C_Transform.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/Component.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/GameObject.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/rendering/DebugDraw.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/rendering/Shader.cpp"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/rendering/gl_utils.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -47,6 +55,14 @@ set(OLD_GLOB
   "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ModuleTextures.h"
   "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ModuleWindow.h"
   "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/Time.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/C_Mesh.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/C_Texture.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/C_Transform.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/Component.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/ecs/GameObject.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/rendering/DebugDraw.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/rendering/Shader.h"
+  "C:/Users/davig/Documents/GitHub/MotorsVideojocs/src/rendering/gl_utils.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

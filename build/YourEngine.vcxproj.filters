@@ -37,6 +37,30 @@
     <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Time.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\C_Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\C_Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\C_Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\rendering\DebugDraw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\rendering\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\rendering\gl_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\App.h">
@@ -76,6 +100,30 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\C_Mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\C_Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\C_Transform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ecs\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\rendering\DebugDraw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\rendering\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\rendering\gl_utils.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
