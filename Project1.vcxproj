@@ -124,9 +124,49 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="App.cpp" />
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="C_Mesh.cpp" />
+    <ClCompile Include="C_Texture.cpp" />
+    <ClCompile Include="C_Transform.cpp" />
+    <ClCompile Include="DebugDraw.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="gl_utils.cpp" />
+    <ClCompile Include="Log.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Module.cpp" />
+    <ClCompile Include="ModuleAssets.cpp" />
+    <ClCompile Include="ModuleCamera.cpp" />
+    <ClCompile Include="ModuleEditor.cpp" />
+    <ClCompile Include="ModuleInput.cpp" />
+    <ClCompile Include="ModuleModels.cpp" />
+    <ClCompile Include="ModuleRenderer.cpp" />
+    <ClCompile Include="ModuleTextures.cpp" />
+    <ClCompile Include="ModuleWindow.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="Time.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="App.h" />
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="C_Mesh.h" />
+    <ClInclude Include="C_Texture.h" />
+    <ClInclude Include="C_Transform.h" />
+    <ClInclude Include="DebugDraw.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="gl_utils.h" />
+    <ClInclude Include="Log.h" />
+    <ClInclude Include="Math.h" />
+    <ClInclude Include="Module.h" />
+    <ClInclude Include="ModuleAssets.h" />
+    <ClInclude Include="ModuleCamera.h" />
+    <ClInclude Include="ModuleEditor.h" />
+    <ClInclude Include="ModuleInput.h" />
+    <ClInclude Include="ModuleModels.h" />
+    <ClInclude Include="ModuleRenderer.h" />
+    <ClInclude Include="ModuleTextures.h" />
+    <ClInclude Include="ModuleWindow.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="Time.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

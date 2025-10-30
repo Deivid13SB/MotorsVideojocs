@@ -1,0 +1,12 @@
+{
+  "name": "yourengine",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "sdl2",
+    "assimp",
+    "glad",
+    "glm",
+    "devil",
+    { "name": "imgui", "features": [ "sdl2-binding", "opengl3-binding" ] }
+  ]
+}
