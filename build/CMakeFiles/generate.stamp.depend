@@ -1,0 +1,60 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FeatureSummary.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/CMakeLists.txt
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/CMakeFiles/4.1.2/CMakeCXXCompiler.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/CMakeFiles/4.1.2/CMakeRCCompiler.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/CMakeFiles/4.1.2/CMakeSystem.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/CMakeFiles/cmake.verify_globs
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/assimp/assimpConfig.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/assimp/assimpConfigVersion.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/assimp/assimpTargets-debug.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/assimp/assimpTargets-release.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/assimp/assimpTargets.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glad/gladConfig.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glad/gladConfigVersion.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glad/gladTargets-debug.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glad/gladTargets-release.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glad/gladTargets.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glm/glmConfig-debug.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glm/glmConfig-release.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glm/glmConfig.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/glm/glmConfigVersion.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/imgui/imgui-config.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/imgui/imgui-targets-debug.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/imgui/imgui-targets-release.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/imgui/imgui-targets.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2Config.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2ConfigVersion.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2Targets-debug.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2Targets-release.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2Targets.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2mainTargets-debug.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2mainTargets-release.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/SDL2mainTargets.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/vcpkg_installed/x64-windows/share/sdl2/sdlfind.cmake
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/vcpkg.json
+C:/Users/davig/vcpkg/scripts/buildsystems/vcpkg.cmake

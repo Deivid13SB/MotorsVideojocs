@@ -1,0 +1,3 @@
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/CMakeFiles/YourEngine.dir
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/davig/Documents/GitHub/MotorsVideojocs/build/CMakeFiles/ZERO_CHECK.dir

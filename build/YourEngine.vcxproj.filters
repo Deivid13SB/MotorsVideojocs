@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Module.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleAssets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleEditor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleInput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleModels.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleTextures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Module.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleAssets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleEditor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleInput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleModels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleTextures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\ModuleWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\src\Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\davig\Documents\GitHub\MotorsVideojocs\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ECFF8D7F-7619-3B2D-930A-E1EC3A6E897E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C8EAF939-379F-391E-A64B-F70B658AEFED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
