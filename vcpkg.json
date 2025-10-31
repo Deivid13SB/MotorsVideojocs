@@ -6,7 +6,6 @@
     "assimp",
     "glad",
     "glm",
-    "devil",
     "imgui"
   ]
 }
