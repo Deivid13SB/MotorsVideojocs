@@ -59,7 +59,7 @@ Además de los requisitos base, el motor incluye varias características adicion
 - Los módulos del motor siguen una arquitectura **modular** (Window, Renderer, Input, Textures, Models, etc.)  
 - El sistema de carga de assets es **asíncrono** y fácilmente ampliable  
 - El **editor** utiliza **ImGui** para la creación de herramientas y menús de depuración  
-- Los módulos `ModuleRenderer` y `ModuleCamera` incluyen funcionalidades extendidas para renderizado avanzado  
+- Los módulos ModuleRenderer y ModuleCamera incluyen funcionalidades extendidas para renderizado avanzado  
 - La jerarquía de objetos y el sistema de componentes están parcialmente implementados para futuras expansiones  
 
 ---
